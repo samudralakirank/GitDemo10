@@ -7,6 +7,7 @@ namespace GitDemo10
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hiii");
         }
     }
 }
